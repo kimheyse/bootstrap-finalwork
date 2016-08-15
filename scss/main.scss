@@ -1,0 +1,67 @@
+@import "variables";
+
+h4 {
+  color: $color-title;
+  font-size: $title-size + 10px;
+  font-family: $text-font, $text-font-fallback;
+
+}
+
+.navbar {
+  background-color: $color-gray;
+  font-size: $title-size;
+
+}
+
+#menu-menu {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.menu-item {
+  float: left;
+}
+
+.navbar-brand {
+  font-size: $text-font, $text-font-fallback;
+}
+
+.card {
+  font-family: $text-font, $text-font-fallback;
+}
+
+.btn-info-outline {
+  background-color: $color-background;
+  border-color: $color-background;
+  color: $color-white;
+}
+
+.header {
+  color: $color-bigicon;
+  font-size: $font-size-header;
+  padding: 10px;
+}
+
+.bigicon {
+  font-size: $font-size-bigicon;
+  color: $color-bigicon;
+}
+
+.verplicht {
+  color: $color-gray;
+}
+
+.card {
+  border-width: 0;
+}
+
+.card-block {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+footer {
+  background-color: $color-gray;
+  margin-top: 50px;
+}

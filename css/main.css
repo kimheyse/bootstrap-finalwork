@@ -1,0 +1,48 @@
+/* GENERAL VARIABLES */
+@import 'https://fonts.googleapis.com/css?family=Lato';
+/* COLORS */
+/* FONT SIZES */
+h4 {
+  color: pink;
+  font-size: 30px;
+  font-family: "Lato", sans-serif; }
+
+.navbar {
+  background-color: lightgray;
+  font-size: 20px; }
+
+.navbar-brand {
+  font-size: 20px; }
+
+.card {
+  font-family: "Lato", sans-serif; }
+
+.btn-info-outline {
+  background-color: pink;
+  border-color: pink;
+  color: #FFFFFF; }
+
+.header {
+  color: #36A0FF;
+  font-size: 27px;
+  padding: 10px; }
+
+.bigicon {
+  font-size: 35px;
+  color: #36A0FF; }
+
+.verplicht {
+  color: lightgray; }
+
+.card {
+  border-width: 0; }
+
+.card-block {
+  padding-left: 0;
+  padding-right: 0; }
+
+form {
+  margin: 30px; }
+
+footer {
+  margin-top: 50px; }
